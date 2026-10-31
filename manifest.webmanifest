@@ -1,6 +1,6 @@
 {
-  "name": "小祕書待辦",
-  "short_name": "小祕書",
+  "name": "總幕僚長待辦",
+  "short_name": "總幕僚長",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
